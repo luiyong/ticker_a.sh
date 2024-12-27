@@ -1,0 +1,1 @@
+# ticker_a.sh
